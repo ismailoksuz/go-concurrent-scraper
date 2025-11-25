@@ -27,7 +27,7 @@ The application fetches the `<title>` tags from a list of predefined URLs simult
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/ismailoksuz/go-concurrent-scraper-.git](https://github.com/ismailoksuz/go-concurrent-scraper-.git)
+    git clone [https://github.com/ismailoksuz/go-concurrent-scraper-.git](https://github.com/ismailoksuz/go-concurrent-scraper.git)
     cd go-concurrent-scraper-
     ```
 
